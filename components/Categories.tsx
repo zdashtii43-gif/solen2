@@ -6,7 +6,7 @@ interface CategoriesProps { lang: "ar" | "en" }
 const imgs = [
   "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&q=85&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=85&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1601121141461-9d6647bef0a1?w=800&q=85&auto=format&fit=crop",
+  "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=85&auto=format&fit=crop",
   "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&q=85&auto=format&fit=crop",
 ];
 
