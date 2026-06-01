@@ -96,8 +96,8 @@ export default function Footer({ lang }: FooterProps) {
             </h4>
             {[
               { label: lang === "ar" ? "البريد" : "Email", value: "hello@solen.com" },
-              { label: lang === "ar" ? "الهاتف" : "Phone", value: "+966 50 000 0000" },
-              { label: lang === "ar" ? "العنوان" : "Address", value: lang === "ar" ? "الرياض، المملكة العربية السعودية" : "Riyadh, Saudi Arabia" },
+              { label: lang === "ar" ? "الهاتف" : "Phone", value: "+965 0000 0000" },
+              { label: lang === "ar" ? "العنوان" : "Address", value: lang === "ar" ? "الكويت" : "Kuwait" },
             ].map((item) => (
               <div key={item.label} className="mb-4">
                 <p className="text-[9px] tracking-[0.2em] uppercase mb-1" style={{ color: "#c9a96e55", fontFamily: "Helvetica Neue, Arial, sans-serif" }}>
